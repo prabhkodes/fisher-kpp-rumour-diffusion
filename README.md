@@ -1,5 +1,10 @@
 # fisher-kpp-rumour-diffusion
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![PETSc](https://img.shields.io/badge/PETSc-8B0000?style=flat-square&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-364d6e?style=flat-square&logoColor=white)
+![ParaView](https://img.shields.io/badge/ParaView-F5A800?style=flat-square&logoColor=white)
+
 A rumour spreading across a 2-D population, solved as a Fisher-KPP reaction-diffusion problem in
 parallel with PETSc. Awareness starts at one point and forms a travelling wave that moves outward at a
 constant speed you can predict analytically and then check against the simulation.
